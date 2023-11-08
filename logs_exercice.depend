@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1699474136 source:c:\users\medja\onedrive\desktop\ci\c-projects\logs_exercice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<malloc.h>
+
